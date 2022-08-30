@@ -1,2 +1,2 @@
 # vv_chat
-Spring boot Chat appliaction with Kafka ana Zookeeper
+Spring Boot Chat appliaction with Kafka and Zookeeper
